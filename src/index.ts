@@ -14,7 +14,7 @@ class MyReactView extends ItemView {
   }
 
   getDisplayText(): string {
-    return "Dice Roller";
+    return "tldraw";
   }
 
   getIcon(): string {
